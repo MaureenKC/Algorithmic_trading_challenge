@@ -1,1 +1,0 @@
-# Algorithmic_trading_challenge
